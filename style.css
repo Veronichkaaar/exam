@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 3px;
+    text-decoration: none;
+    box-shadow: 7px 5px 3px 1px;
+    background-image: linear-gradient(gold, OldLace, Goldenrod);
+}
+footer {
+    background-image: linear-gradient(gold, OldLace, Goldenrod);
+}
+h1 {
+    font-family: algerian;
+}
+li {
+    font-family: cursive;
+}
+main p {
+    font-family: cursive;
+}
+
+
+
+header a {
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 3px;
+    text-decoration: none;
+    background-image: linear-gradient(gold, OldLace, Goldenrod);
+
+}
+
+
+
+li {
+    font-family: cursive;
+}
+
+header {
+    margin-bottom: 10px;
+}
+.link-nav {
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 2px;
+    background-image: linear-gradient(gold, OldLace, Goldenrod);
+}
+
+header a {
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 3px;
+    text-decoration: none;
+    background-image: linear-gradient(gold, OldLace, Goldenrod);
+
+
+
+
+
